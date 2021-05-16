@@ -4,9 +4,8 @@
 
 https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
 
-由于文件较大，通过branch管理
+由于文件较大，分多个git仓管理
 
 
 
-例如：frameworks/base 分支即对应相应的路径
-
+本git仓对应目录： frameworks/base/
